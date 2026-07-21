@@ -1,16 +1,114 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HigorLima029/HigorLima029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Higor%20Lima&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-Here are some ideas to get you started:
+# Olá! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Desenvolvedor Full Stack | Python | JavaScript | IA | Automação
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!" />
+
+</div>
+
+---
+
+# 👨‍💻 Sobre mim
+
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**
+
+💼 Atualmente trabalho como **Analista de Suporte IoT**
+
+🤖 Apaixonado por **Automação, Inteligência Artificial e Desenvolvimento Web**
+
+📚 Sempre estudando novas tecnologias
+
+🚀 Em busca da primeira oportunidade como Desenvolvedor Full Stack
+
+💡 Gosto de criar projetos para resolver problemas reais.
+
+---
+
+# 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,angular,nodejs,dotnet,java,mysql,mongodb,git,github,vscode,docker"/>
+
+</div>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HigorLima029&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorLima029&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=HigorLima029&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HigorLima029&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 📂 Meus Projetos
+
+🚀 **English AI**
+> Tutor de inglês com IA, voz e conversação.
+
+🔐 **Gerador de Senhas**
+> Gerador de senhas personalizadas em JavaScript.
+
+🤖 **Automação Python**
+> Automação para preenchimento de documentos e geração de PDFs.
+
+🏓 **Ping Pong Game**
+> Jogo desenvolvido utilizando HTML5 Canvas e JavaScript.
+
+📱 **Sistema de Agendamento**
+> Controle de instalação de rastreadores e geração de relatórios.
+
+---
+
+# 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/SEU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Obrigado pela visita! 😄
+
+<img src="https://komarev.com/ghpvc/?username=HigorLima029&color=blueviolet&style=for-the-badge"/>
+
+</div>
