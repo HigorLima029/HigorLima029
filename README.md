@@ -1,3 +1,4 @@
+<div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Higor%20Lima&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 # Olá! 👋
@@ -58,8 +59,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=postgresql" title="Postgresql" />
   
-
 </p>
+
 
 ---
 
@@ -74,6 +75,7 @@
 </div>
 
 ---
+
 
 # 🔥 Sequência de Contribuições
 
