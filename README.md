@@ -16,7 +16,7 @@
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 
-💼 Atualmente trabalho como **Analista de Suporte IoT**
+💼 Atualmente trabalho como **Líder em desenvolvimento IOT, automações com python e análise de dados com excel e power BI**
 
 🤖 Apaixonado por **Automação, Inteligência Artificial e Desenvolvimento Web**
 
