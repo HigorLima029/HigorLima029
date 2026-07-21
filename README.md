@@ -30,11 +30,19 @@
 
 # 🚀 Tecnologias
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,angular,nodejs,dotnet,mysql,mongodb,git,github,vscode,docker,flutter,salesforce"/>
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=dotnet" title="C# .net" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind css" title="Tailwind css" />
+</p>
 
 ---
 
