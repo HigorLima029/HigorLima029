@@ -44,7 +44,6 @@
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=mysql" title="Mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=sqlserver" title="SQL" />
   <img src="https://skillicons.dev/icons?i=postgresql" title="Postgresql" />
   <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
   <img src="https://skillicons.dev/icons?i=vue.js" title="Vue.js" />
