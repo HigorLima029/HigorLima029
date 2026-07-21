@@ -1,11 +1,12 @@
-<div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Higor%20Lima&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?...">
 
 # Olá! 👋
 
 ### Desenvolvedor Full Stack | Python | JavaScript | IA | Automação
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!" />
+<img src="https://readme-typing-svg.herokuapp.com?...">
 
 </div>
 
