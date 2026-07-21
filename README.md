@@ -65,9 +65,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HigorLima029/HigorLima029/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## 📈 Gráfico de Contribuições
+
+[![Higor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HigorLima029&theme=tokyo-night)](https://github.com/HigorLima029)
+
 ---
 
 
