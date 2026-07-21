@@ -66,6 +66,20 @@
 
 ---
 
+# 📡 Experiência em IoT
+
+| Categoria | Tecnologias |
+|-----------|-------------|
+| 📍 Queclink | GV50P • GV50CG • GV75 |
+| 📍 Teltonika | FMB130 • FMB150 • FMC130 • FMC150 • FMB003 |
+| 📍 X3Tech | XT40 |
+| 📍 Scope | MHub 369-B |
+| ⚙️ Atividades | Configuração • Atualização de Firmware • Testes em bancada • Manutenção • Desenvolvimento de melhorias • Homologação • Diagnóstico |
+
+
+
+---
+
 ## 📈 Gráfico de Contribuições
 
 [![Higor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HigorLima029&theme=tokyo-night)](https://github.com/HigorLima029)
