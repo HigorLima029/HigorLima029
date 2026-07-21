@@ -1,5 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/49ff7ec4-c978-40a2-9d9c-31990b74fd17" /><div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Higor%20Lima&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 # Olá! 👋
@@ -40,6 +38,7 @@
   <img src="https://skillicons.dev/icons?i=vue.js" title="Vue.js" />
 </p>
 
+
 # 🧑🏻‍💻 Back-End
 
 <p align="left">
@@ -50,6 +49,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
 </p>
+
 
 # 🏦 Banco de dados
 
