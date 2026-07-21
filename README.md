@@ -50,6 +50,7 @@
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
 </p>
 
 
