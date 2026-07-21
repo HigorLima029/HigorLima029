@@ -47,10 +47,8 @@
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=dotnet" title="C# .net" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
 </p>
 
 
@@ -69,13 +67,11 @@
 # 🛠️ Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
-  <img src="https://skillicons.dev/icons?i=powerbi" title="Power BI"/>
 </p>
 
 - Jira
