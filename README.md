@@ -1,4 +1,4 @@
-<div align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/49ff7ec4-c978-40a2-9d9c-31990b74fd17" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Higor%20Lima&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
@@ -28,25 +28,36 @@
 
 ---
 
-# 🚀 Tecnologias
+# 🧑🏻‍💻 Front-End
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
+  <img src="https://skillicons.dev/icons?i=vue.js" title="Vue.js" />
+</p>
+
+# 🧑🏻‍💻 Back-End
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=dotnet" title="C# .net" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+</p>
+
+# 🏦 Banco de dados
+
+<P align="left">
   <img src="https://skillicons.dev/icons?i=mysql" title="Mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=postgresql" title="Postgresql" />
-  <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
-  <img src="https://skillicons.dev/icons?i=vue.js" title="Vue.js" />
+  
 
 </p>
 
