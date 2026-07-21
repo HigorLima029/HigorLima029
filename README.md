@@ -60,15 +60,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HigorLima029&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
 
 # 📂 Meus Projetos
 
