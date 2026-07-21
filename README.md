@@ -66,6 +66,28 @@
 
 ---
 
+# 🛠️ Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=powerbi" title="Power BI"/>
+</p>
+
+- Jira
+- Selenium
+- MQTT
+- AT Commands
+- Excel
+- Power BI
+
+
+---
+
 # 📡 Experiência em IoT
 
 | Categoria | Tecnologias |
